@@ -17,3 +17,7 @@ First we need a env.
     $ pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
   
     $ pip install --no-build-isolation -e .
+
+    $ python setup.py build_ext --inplace
+
+    $ pip install supervision
