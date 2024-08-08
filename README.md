@@ -19,6 +19,8 @@
 
 Download and Install Microsoft Visual C++ Build Tools: https://visualstudio.microsoft.com/tr/visual-cpp-build-tools/
 
+    Install Ninja (Optional but Recommended) Ninja is a small build system with a focus on speed: $ pip install ninja
+
     $ python setup.py build_ext --inplace
 
     $ pip install supervision
