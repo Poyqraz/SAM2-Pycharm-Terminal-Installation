@@ -17,6 +17,8 @@
   
     $ pip install --no-build-isolation -e .
 
+    Download and Install Microsoft Visual C++ Build Tools: https://visualstudio.microsoft.com/tr/visual-cpp-build-tools/
+
     $ python setup.py build_ext --inplace
 
     $ pip install supervision
