@@ -1,6 +1,5 @@
 # META's SAM2-Pycharm-Terminal-Installation
 
-First we need a env.
 
     $ python -m venv sam
   
